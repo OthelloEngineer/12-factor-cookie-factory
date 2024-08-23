@@ -3,7 +3,7 @@ A repository for a [12-factor](https://12factor.net/) app workshop with incremen
 
 The repository follows a cookie factory that would like to scale their production while maintaining a decoupled and maintainable code base for all of their cookie production. 
 
-They heard of magic tricks from Heroku known as the "12-factor app" principles that they would like to implement super-boost their new transition.
+They heard of magic tricks from Heroku known as the "12-factor app" principles that they would like to implement to super-boost their new transition.
 
 This repository is takes on the journey where the developer is able to see snapshots of the cookie factory's implementation journey where the milestones of a 12-factor migration would be implemented. 
 
