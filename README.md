@@ -27,7 +27,7 @@ The different snapshots are shown as directories:
 
 In less fun but more informational terms:
 1. Combine a dev and prod into one repo to ensure high cohesion, low incentive for drift, and easier CI integrations
-2. Build an explicit configuration of all dependencies to ensure consitent versioning between developers.
+2. Build an explicit configuration of all dependencies to ensure consistent versioning between developers and quick installation of the dependencies.
 3. Create a configuration that is separate from the codebase to ensure security for passwords, and avoid version cluttering when configuration changes.
 4. Create a docker compose file to allow for local testing instead of relying solely on CI for feedback
 5. Avoid cluttering the versioning with failed builds and deploying broken software by transforming a single-stage CI/CD pipeline to a multi-stage CI/CD pipeline 
