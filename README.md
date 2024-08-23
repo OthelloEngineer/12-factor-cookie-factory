@@ -30,7 +30,7 @@ In less fun but more informational terms:
 2. Build an explicit configuration of all dependencies to ensure consitent versioning between developers.
 3. Create a configuration that is separate from the codebase to ensure security for passwords, and avoid version cluttering when configuration changes.
 4. Create a docker compose file to allow for local testing instead of relying solely on CI for feedback
-5. Avoid cluttering the versioning with failed builds and deploying broken software by transforming a single-phase CI/CD pipeline to a multi-phased CI/CD pipeline 
+5. Avoid cluttering the versioning with failed builds and deploying broken software by transforming a single-stage CI/CD pipeline to a multi-stage CI/CD pipeline 
 6. Discovering the downsides of sticky sessions and how to avoid them by separating state from logic. 
 7. increasing separation of concerns by utilizing port bindings instead of paths for a deployment of  a metrics server and a business app.
 8. Scale co-routines increase performance of entire applications when waiting for IO-operations
