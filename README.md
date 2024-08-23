@@ -41,5 +41,5 @@ In less fun but more informational terms:
 
 
 TODO: 
-- make apps
+- make apps/exercises
 - Separate into an org with several repos
