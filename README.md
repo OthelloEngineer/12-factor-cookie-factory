@@ -1,5 +1,5 @@
 # 12-factor-cookie-factory
-A repository for a 12-factor app workshop with incremental steps through the 12-factor principles.
+A repository for a [12-factor](https://12factor.net/) app workshop with incremental steps through the 12-factor principles.
 
 The repository follows a cookie factory that would like to scale their production while maintaining a decoupled and maintainable code base for all of their cookie production. 
 
