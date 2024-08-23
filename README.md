@@ -38,3 +38,8 @@ In less fun but more informational terms:
 10. Heighten confidence that code acts similarly between dev and prod environment through identical OS between dev/prod.
 11. Apply log aggregation analytics on said aggregation to leverage logs and avoid losing them when app dies. 
 12. Create a docker image that spins up, cleans up database and then exits.
+
+
+TODO: 
+- make apps
+- Separate into an org with several repos
